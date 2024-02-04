@@ -1,4 +1,4 @@
-# MJMS - A client for  https://mailsrv.marcusjt.tech
+# MJMS - A client for  https://mailsrv.marcusj.org
 
 **Usage**
 
